@@ -10,12 +10,6 @@ The datasets used for this analysis can be found in the following links:
 1. [Spotify Dataset 1](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
 2. [Spotify Dataset 2](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db?rvi=1)
 
-## Contents
-
-- `data_analysis.ipynb`: Jupyter notebook containing the Python code for data analysis.
-- `visualization.ipynb`: Jupyter notebook focusing on visualizations of Spotify data.
-- `requirements.txt`: Text file listing the Python packages required for running the analysis scripts.
-- `LICENSE`: License information for the project.
 
 ## Usage
 
