@@ -16,7 +16,7 @@ The datasets used for this analysis can be found in the following links:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your_username/spotify-data-analysis.git
+   git clone https://github.com/Shanhavi23/spotify-data-analysis.git
    ```
 
 2. Install the required Python packages:
